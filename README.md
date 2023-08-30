@@ -1,2 +1,2 @@
 # Polling-System-API
-API where anyone can create questions with options and also add votes to it
+With a polling system API, developers can easily create, update, delete, and retrieve questions, as well as add options to those questions. And the best part is that users can vote on the options they like.
